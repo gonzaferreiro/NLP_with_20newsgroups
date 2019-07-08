@@ -10,3 +10,14 @@ In this project we'll only work trying to predict four categories of the Sklearn
 * talk.religion.misc
 * comp.graphics
 * sci.space
+
+Feel free to check the [dataset documentation](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) to know more about it. 
+
+## What you'll find in this repository
+
+* Introduction to the dataset and its exploration
+* Bag of words model: what it is and application
+* Exploring most common words in several ways
+* Looking at the confusion matrix out of our model
+* Using Hashing and TF-IDF: theoretical introduction and application
+* A classifiers comparison
